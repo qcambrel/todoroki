@@ -1,2 +1,2 @@
-# todorki
+# todoroki
 Simple graph database system.
